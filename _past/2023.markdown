@@ -1,0 +1,8 @@
+---
+name:  ICSME 2023
+location:   Bogotá, Colombia
+when: October 1-6 2023
+website: https://conf.researchr.org/home/icsme-2023
+gc: Sonia Haiduc, Mario Linares-Vasquez
+pc: Venera Arnaoudova, Gabriele Bavota
+---
