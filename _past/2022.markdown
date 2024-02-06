@@ -4,5 +4,5 @@ location:   Limassol, Cyprus
 when: October 2-7 2022
 website: https://cyprusconferences.org/icsme2022/
 gc: Rainer Koschke, George A. Papadopoulos
-pc: Paris Avgeriou, Dave Binkley
+pc: Paris Avgeriou, Dave Binkley 
 ---
