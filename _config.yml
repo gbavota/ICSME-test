@@ -1,12 +1,12 @@
 # Site settings
-title: *folio
-email: you@example.com
+title: IEEE International Conference on Software Maintenance and Engineering (ICSME)
+email: icsme-sc@googlegroups.com
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+  Official website of the IEEE International Conference on Software Maintenance and Engineering (ICSME)
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
-twitter_username: twitter_username
-github_username:  github_username
+twitter_username: IEEEICSME
+github_username:  IEEEICSME
 
 # Build settings
 markdown: kramdown
@@ -19,11 +19,14 @@ paginate_path: "/blog/page:num/"
 
 
 collections:
-  portfolio:
+  past:
     output: true
-    permalink: /portfolio/:path/
-  poetry:
+    permalink: /past/:path/
+  documents:
     output: true
-    permalink: /poetry/:path/
+    permalink: /documents/:path/
+  sc:
+    output: true
+    permalink: /sc/:path/
 
 
